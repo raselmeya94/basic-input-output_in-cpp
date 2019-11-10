@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+      
+      cout<<"WELCOME EVERYONE"<<endl;
+      cout<<"This Is My First program."<<endl;
+      
+      
+
+    return 0;
+}
